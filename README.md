@@ -1,5 +1,5 @@
-<img width="1917" height="1078" alt="Screenshot 2026-09-11 185802" src="https://github.com/user-attachments/assets/8aa4d73c-5fe6-45fc-a6de-ad561b231b66" /># Ex.No.6.2  - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
-
+### Name: AMIRDAVARSHINI D
+### Register Number: 212225230013
 ### DATE: 8/9/26
 
 ## AIM: 
